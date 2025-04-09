@@ -1,0 +1,51 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+ENV/
+.venv/
+
+#Folder
+API/
+
+# Logs
+logs/
+#the __pycache__ under src:
+src/__pycache__/
+
+# Logs in src
+src/logs/
+
+#alembic folder
+alembic/
+
+#alembic versions
+alembic/versions/
+
+#alembic pycaches
+alembic/__pycache__/
+
+# VSCode settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# another repo
+my-api/
+
+#  dist and build folders
+dist/
+build/
+
+#  environment variables
+.env
+admin_app.spec
+main_app.spec

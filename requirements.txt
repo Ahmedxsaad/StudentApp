@@ -1,0 +1,8 @@
+PyQt5
+SQLAlchemy
+psycopg2
+bcrypt
+alembic
+llama-cpp-python
+requests
+PyQtChart

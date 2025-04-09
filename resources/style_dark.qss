@@ -1,0 +1,257 @@
+/* style_dark.qss */
+QWidget {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    font-family: 'Maven Pro';
+}
+
+QLabel {
+    color: #ffffff;
+    background: none;
+}
+
+QLabel#SectionTitle {
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 10px;
+    background: none;
+    font-size: 18pt;
+}
+
+QLabel#PermanentWhiteLabel {
+    color: #ffffff !important;
+}
+
+QFrame#LoginCard {
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    border: 1px solid #ffffff; 
+}
+
+QFrame#FooterFrame {
+    background-color: #1f1f1f;
+    border-top: 1px solid #333333;
+}
+
+QFrame#NotificationCard {
+    border: none; 
+    border-radius: 0px; 
+    background-color: #1f1f1f;
+    margin: 0px;
+}
+QLabel#NotificationTitle {
+    font-weight: bold; 
+    font-size: 17px; 
+    color: #00bcd4; 
+    margin-bottom: 2px;
+}
+QLabel#NotificationBody {
+    font-size: 15px; 
+    color: #ffffff;
+}
+QLabel#NotificationDate {
+    font-size: 13px; 
+    color: #aaaaaa;
+}
+
+
+QPushButton#MainActionButton{
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 8px 15px;
+    color: #ffffff;
+    font-weight: bold;
+    min-width: 180px; 
+}
+
+QTableWidget {
+    background-color: #1f1f1f;
+    gridline-color: rgb(92, 92, 92);
+    color: #ffffff;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+}
+QTableWidget::item {
+    padding: 14px 14px;
+}
+QHeaderView::section {
+    background-color: rgba(44, 44, 44, 0);
+    color: rgb(24, 255, 224);
+    padding: 2px 0;
+    margin: 0px;
+    border-bottom: 1px solid rgb(129, 129, 129);
+}
+
+#LeftNavigation {
+    background-color: rgba(189, 189, 189, 0);
+    border: none;
+    border-radius: 40px;
+}
+QFrame#MainNavFrame {
+    background-color: #333333;
+    border-radius: 20px;
+    margin: 0;
+    padding: 10px;
+    margin-top: 18px;
+}
+QFrame#NavButtonFrame {
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+QFrame#ProfileButtonsFrame {
+    background-color: #333333;
+    margin:0;
+    padding: 0;
+    border-radius: 20px;
+    margin-top: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+QFrame#SettingsCard {
+    background-color: rgb(39, 39, 39);
+    border-radius: 15px;
+    border: 1px solid rgb(71, 71, 71);
+    padding: 20px;
+}
+
+QCheckBox {
+    background: transparent;
+    spacing: 10px;
+    color: #ffffff;
+}
+QCheckBox::indicator {
+    width: 20px;
+    height: 20px;
+}
+
+QSlider {
+    min-height: 30px;
+    max-height: 30px;
+    background: transparent;
+}
+QSlider::groove:horizontal {
+    border: 1px solid #444444;
+    height: 8px;
+    background: #1f1f1f;
+    margin: 0px;
+    border-radius: 4px;
+}
+QSlider::handle:horizontal {
+    background: #00bcd4;
+    border: 1px solid #00bcd4;
+    width: 18px;
+    height: 18px;
+    margin: -5px 0;
+    border-radius: 9px;
+}
+
+
+QLineEdit, QComboBox, QTextEdit {
+    background-color: #1f1f1f;
+    border: 1px solid #444444;
+    border-radius: 5px;
+    padding: 5px;
+    color: #ffffff;
+}
+QComboBox {
+    background-color:rgb(34, 34, 34);
+    color: #ffffff;
+    border: 1px solid #444444;
+    border-radius: 5px;
+}
+QComboBox QAbstractItemView {
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+QPushButton {
+    background: transparent;
+    color: #ffffff;
+    border: none;
+    padding: 5px 8px;
+}
+QPushButton:hover {
+    background-color:rgb(70, 70, 70);
+    border-radius: 5px;
+}
+
+QFrame#CardWidget {
+    background-color: #2c2c2c;
+    border-radius: 15px;
+    border: 1px solid #333333;
+}
+QFrame#PurpleCard {
+    background-color: #6c2a6c;
+    border-radius: 20px;
+}
+QFrame#PurpleCard QLabel {
+    color: #ffffff;
+    background: none;
+}
+
+QFrame#ProfileCard {
+    background-color: #2c2c2c;
+    border-radius: 20px;
+    border: 1px solid #333333;
+}
+
+QCalendarWidget QWidget {
+    background-color: #ffffff;
+    border-radius: 10px;
+    color: #000000;
+}
+QCalendarWidget QAbstractItemView:enabled {
+    background-color: #000000;
+    border: none;
+    selection-background-color: #00bcd4;
+    selection-color: #000000;
+    color: rgb(203, 97, 235);
+}
+QCalendarWidget QToolButton {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    margin: 1px;
+    border-radius: 8px;
+}
+QCalendarWidget QTableView {
+    background-color: #2c2c2c;
+}
+QCalendarWidget QWidget#qt_calendar_navigationbar {
+    background-color: #2c2c2c;
+    color: #000000;
+}
+
+QWidget#login_page, QWidget#register_page, QWidget#verify_page,
+QWidget#reset_request_page, QWidget#reset_page {
+    background-color: #1f1f1f;
+}
+
+QLabel[font-size="24pt"] {
+    font-size: 24pt;
+    font-weight: bold;
+    color: #ffffff;
+    background: none;
+}
+
+QChartView {
+    border: none;
+    background: transparent;
+    padding: 5px;
+    margin: 0;
+}
+QFrame#CardWidget {
+    background-color: transparent;
+    border: none;
+}
+QFrame#SplashContainer {
+    background-color: rgba(0, 0, 0, 160);
+    border-radius: 12px;
+}
+QSplashScreen#CustomSplash {
+    background-color: #303030;
+}
