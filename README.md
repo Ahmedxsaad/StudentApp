@@ -24,20 +24,21 @@ This project was a learning experience. While the application **is functional an
 ## ✨ Demo & Screenshots
 
 I plan to create a short video demonstration showcasing the application's features. In the meantime, here are some screenshots:
-
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/139ec936-9791-4ab8-8d47-2cc400076bea" alt="Screenshot 1" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2d75570d-079f-480e-8365-12a533d82365" alt="Screenshot 2" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/232cff14-60da-49c0-82f8-b851a9e6496c" alt="Screenshot 3" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3b9092d9-7c23-4584-a158-d94ed0e7eec4" alt="Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cfef6db4-9424-4548-8290-0040f042e2f3" alt="Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e7146e63-ada2-40bf-9f54-20191d26eac1" alt="Screenshot 3" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a9f43799-0b57-4ad3-aaa9-0abdb1b52372" alt="Screenshot 4" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/3a3174a5-fb2e-4d82-857c-744f53395758" alt="Screenshot 5" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/aeeedb1f-2fcf-4a40-b0de-fa1dcc8d0ae7" alt="Screenshot 6" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/caadb060-b3c7-4aef-a16d-03c547fe448a" alt="Screenshot 4" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ad12fc67-4145-43bb-a64d-69ad1dd367ad" alt="Screenshot 5" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0f3e6d1e-8769-4847-96ec-5fa2215efe8b" alt="Screenshot 6" width="200"/></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/user-attachments/assets/fed6521b-0b60-498f-a87f-e35d844423cb" alt="Screenshot 7" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/27a25202-30b0-4902-b28c-32cd0e2a687e" alt="Screenshot 7" width="200"/></td>
+     <td><img src="https://github.com/user-attachments/assets/cb31fc9b-07aa-44fc-b8f9-30f647256d4e" alt="Screenshot 8" width="200"/></td>
+     <td><img src="https://github.com/user-attachments/assets/b73ca924-06f6-4641-af63-3d4806dd1b8e" alt="Screenshot 9" width="200"/></td>
   </tr>
 </table>
 
